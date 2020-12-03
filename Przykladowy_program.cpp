@@ -13,7 +13,7 @@ int main() {
  
   Samochod sam1;
   sam1.marka = "BMW";
-  sam1.model = "X5";
+  sam1.model = "X6";
   sam1.rocznik = 1999;
 
   Samochod sam2;
