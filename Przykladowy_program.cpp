@@ -8,9 +8,15 @@ class Samochod {
     string model;
     int rocznik;
 
+
 	void nowa_metaoda()
 	{
 		//kod
+  }
+  
+	void testowa_metoda_programu()
+	{
+		//inny kod
 	}
 
 };
