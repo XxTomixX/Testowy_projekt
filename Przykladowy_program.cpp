@@ -7,6 +7,12 @@ class Samochod {
     string marka;   
     string model;
     int rocznik;
+
+	void nowa_metaoda()
+	{
+		//kod
+	}
+
 };
 
 int main() {
